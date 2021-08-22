@@ -7,7 +7,7 @@
 
 ### And than install miniconda
 ```
-[Click Here](https://conda.io/en/latest/miniconda.html)
+[click here](https://conda.io/en/latest/miniconda.html)
 ```
 
 ### Next install jupyter notebook
@@ -47,4 +47,4 @@ activate myenv
 ```
 
 ### Conda documentation
-[conda documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+[click here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
