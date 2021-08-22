@@ -1,1 +1,50 @@
-# ml_environment
+# Machine Learning Environment
+
+
+
+### First we need to install Python.
+
+
+### And than install miniconda
+```
+[Click Here](https://conda.io/en/latest/miniconda.html)
+```
+
+### Next install jupyter notebook
+
+```
+conda install jupyter
+```
+
+### Install libraries
+
+```
+conda install numpy
+conda install pandas
+conda install matplotlib
+conda install seaborn
+conda install scikit-learn
+conda install pillow
+conda install tensorflow
+conda install keras
+```
+
+### Fix pillow installing error
+```
+pip uninstall PIL
+pip install PIL
+```
+
+### Creating a separate environment
+```
+conda create --name myenv
+
+```
+
+### Activating the environment
+```
+activate myenv
+```
+
+### Conda documentation
+[conda documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
